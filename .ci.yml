@@ -1,0 +1,4 @@
+image: ubuntu:14.04
+command:
+- exit 0
+
