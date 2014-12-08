@@ -1,4 +1,4 @@
-image: ubuntu:14.04
+image: giorgos/ubuntu-git-python
 command:
 - exit 0
 
